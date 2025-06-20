@@ -9,12 +9,13 @@ O **Fale Comigo** é um aplicativo Android desenvolvido em Kotlin com Jetpack Co
 O objetivo é promover o autoconhecimento, conversas significativas e momentos leves com quem está por perto — ou até mesmo com você mesma(o).
 
 ---
+## 📱 Telas do App
 
-## Interfaces
-
-![splashfalacomigo](https://github.com/user-attachments/assets/191b497d-d1b8-4d17-8da6-61d8705435bb)
-![iniciofalacomigo](https://github.com/user-attachments/assets/1e41a8b2-b287-4590-a275-946d552fc1d1)
-![perguntafalacomigo](https://github.com/user-attachments/assets/0d2504ec-4132-4c72-a84b-d0cebef3abf8)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/191b497d-d1b8-4d17-8da6-61d8705435bb" alt="Splash Fale Comigo" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1e41a8b2-b287-4590-a275-946d552fc1d1" alt="Início Fale Comigo" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0d2504ec-4132-4c72-a84b-d0cebef3abf8" alt="Pergunta Fale Comigo" width="30%" />
+</div>
 
 ---
 
