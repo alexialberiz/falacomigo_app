@@ -10,6 +10,14 @@ O objetivo é promover o autoconhecimento, conversas significativas e momentos l
 
 ---
 
+## Interfaces
+
+![splashfalacomigo](https://github.com/user-attachments/assets/191b497d-d1b8-4d17-8da6-61d8705435bb)
+![iniciofalacomigo](https://github.com/user-attachments/assets/1e41a8b2-b287-4590-a275-946d552fc1d1)
+![perguntafalacomigo](https://github.com/user-attachments/assets/0d2504ec-4132-4c72-a84b-d0cebef3abf8)
+
+---
+
 ## ✨ Funcionalidades
 
 ✅ Interface moderna com Jetpack Compose  
